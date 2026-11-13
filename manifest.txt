@@ -1,0 +1,2 @@
+Main-Class: app.Application
+Class-Path: lib/sqlite-jdbc-3.54.1.0.jar lib/slf4j-api-2.0.17.jar

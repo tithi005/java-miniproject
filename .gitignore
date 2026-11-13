@@ -1,0 +1,9 @@
+# Compiled output
+out/
+*.class
+
+# Local SQLite database
+*.db
+
+# Build output
+StudentRecordSystem.jar
